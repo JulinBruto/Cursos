@@ -1,0 +1,76 @@
+Como compreender os componentes da fase de planejamento:
+	Os benefícios do planejamento de projetos:
+		-O planejamento é uma parte significativa da garantia de sucesso de um projeto
+		-O planejamento é importante para qualquer projeto, grande ou pequeno.
+		-O planejamento ajuda a mapear o projeto completo:
+			-Ajuda a entender o trabalho necessário para alcançar suas metas.
+			-Ajuda a coordenar esforços e cronogramas com outras equipes, contratados e fornecedores.
+			-Oferece tempo para identificar e se preparar para riscos que poderiam impactar seu projeto.
+			-Pode ajudar a conseguir "adesão" de integrantes essenciais da equipe do projeto.
+			-Pode ajudar a demonstrar para as partes interessadas que o time esta tomando cuidado de começar o projeto com um plano detalhado.
+	
+	Como iniciar a fase de planejamento:
+		-A fase de planejamento pode diferir de projeto para projeto, mas geralmente três grandes pontos são trabalhados durante esta fase:
+			-O cronograma
+				-É basicamente uma linha do tempo do projeto.
+				-Inclui a data de inicio, a data final, e as datas para os acontecimentos intermediários.
+			-O orçamento
+				-Será responsável pelo custo total para completar o projeto.
+				-O custo total precisa ser dividido para determinar quanto tem que ser gasto em diferentes elementos do projeto.
+			-O plano de gestão de riscos
+				-Significa procurar por possíveis problemas e se planejar com antecedência para atenuá-los.
+				
+	Como facilitar uma reunião inicial de projeto:
+		-Reunião inicial do projeto:
+			-É a primeira reunião em que uma equipe de projeto se une para sintonizar o grupo em uma visão compartilhada,
+			 chagar a um entendimento em comum das metas e do escopo do projeto, e entender os papéis individuais de cada
+			 pessoa dentro da equipe.
+			-Quem é convidado:
+				-Integrantes da equipe identificados em um gráfico RACI.
+				-Partes interessadas.
+				-Patrocinadores.
+			 
+			-Durante a reunião, os integrantes da equipe aprenderão mais sobre como vão contribuir para o projeto e
+			 como terão uma compreensão mais aprofundada de como a equipe vai trabalhar em conjunto para atingir as metas do projeto.
+			 
+			-Motivos para se reunir:
+				-Estabelecer uma visão compartilhada.
+				-Alinhar-se ao escopo.
+				-Construir relacionamento com a equipe.
+				-Oportunidade para os membros da equipe fazerem perguntar e darem ideias.
+				-Definir expectativas
+				
+			-Como planejar e conduzir uma reunião inicial:
+				-Existem muitos modelos, mais a maioria segue uma estrutura semelhante e dura cerca de uma hora.
+				-É possível alocar cerca de 10 minutos para que todos no grupo se apresentem.
+					-Mostrem os papéis deles
+					-Se o tempo permitir contar uma curiosidade, para ajudar a construir relacionamento de equipe.
+				-Em seguida usar cerca de 5 minutos pra mostrar uma visão geral do histórico do projeto
+					-Como o projeto surgiu.
+					-Por que ele é importante.
+					-Definir uma visão compartilhada.
+				-Em seguida utilizar cerca de 5 minutos mostrando as metas e o escopo
+					-Qual trabalho está dentro do escopo
+					-Qual trabalho está fora do escopo
+					-Mostrar a data de lançamento prevista
+					-Destacar todos os marcos importantes
+				-Utilizar cerca de cinco minutos para discutir os papéis (roles)
+					-Garantir que todos estão cientes do trabalho pelo qual serão responsáveis em todo o decorrer do projeto.
+				-Em seguida falar sobre a colaboração, cerca de 10 minutos
+					-É um ótimo momento para revisar ferramentas que vão servir como fonte comum de informações para a equipe.
+					-Como o time vai se comunicar entre si.
+				-Em seguida falar sobre o quem vem a seguir, cerca de 10 minutos
+					-Definir as expectativas em relação ao futuro.
+				-Por fim, reservar cerca de 15 minutos para perguntas
+					-Esta é a oportunidade para que a equipe tenha esclarecimentos sobre os tópicos
+					-É a chance de ouvir a equipe e garantir que o projeto seja beneficiado com a diversidade de pensamentos, experiências e ideias.
+				
+				-Boas praticas:
+					-Pedir par a um colega de time para que anote os principais pontos e ações da reunião.
+					-Em alguns casos gravar a reunião é algo interessante.
+					-Depois da reunião enviar um e-mail de acompanhamento ao grupo, resumindo os pontos principais e os resultados da reunião,
+					 bem como todos os itens de ação para os participantes.
+					-Pedir para que em caso de duvidas os participantes entrem em contato.
+				
+					
+		
