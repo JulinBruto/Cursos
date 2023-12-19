@@ -71,6 +71,74 @@ Como compreender os componentes da fase de planejamento:
 					-Depois da reunião enviar um e-mail de acompanhamento ao grupo, resumindo os pontos principais e os resultados da reunião,
 					 bem como todos os itens de ação para os participantes.
 					-Pedir para que em caso de duvidas os participantes entrem em contato.
-				
+
+Como definir tarefas e marcos:
+	Como compreender tarefas e marcos:
+		-Marco de projeto:
+			-É um ponto importante dentro do cronograma do projeto que indica progresso
+			 e geralmente significa a conclusão de uma entrega ou fase do projeto.
+			-São pontos importantes dentro do cronograma do projeto
+			-Os marcos servem como pontos de verificação ao longo do seu projeto para garantir
+			 que você está indo na direção certa rumo à meta final.
+			-Os marcos também deixam os projetos mais gerenciáveis. 
+		-Tarefa de projeto:
+			-É uma atividade que precisa ser realizada dentro de um determinado período.
+			-São atividades que precisam ser realizadas em um determinado período, para ajudar a concluir os marcos.
+	
+	A importância da definição de marcos:
+		-Definir marcos dá a você uma compreensão clara da quantidade de trabalho que seu projeto vai exigir
+		-Eles podem ajudar a manter seu projeto nos trilhos.
+		-Eles ajudam a descobrir áreas em que você pode precisar ajustar o escopo, os cronogramas ou os recursos para atingir suas metas.]
+		-Atingir marcos pode motivar muito sua equipe e ilustrar o progresso real para as partes interessadas.
+		-Servem como um grande check-in point para destacar o seu progresso para as partes interessadas.
+		-Os marcos precisam ser concluídos a tempo e em ordem sequencial.
+	
+	Como definir marcos:
+		-Avaliar seu projeto com um todo.
+		-Fazer uma lista do que sua equipe precisa fazer para alcançar essa meta.
+			-Itens grandes que indicam progresso são seus marcos
+			-Itens menores, com qualquer item que uma parte interessada não precisa analisar, são tarefas.
+		-Atribuir um prazo a cada um dos marcos.
+		
+		-Praticas recomendadas:
+			-Definir tarefas para identificar marcos:
+				-Definir tarefas pode ajudar você a estabelecer marcos com clareza
+					-Programação descendente:
+						-Nesta abordagem, o gerente de projeto estabelece os marcos de nível superior e,
+						 em seguida, trabalha para dividir o esforço em tarefas do projeto.
+						-O gerente de projeto trabalha com a equipe para garantir que todas
+						 as tarefas sejam capturadas.
+
+					-Programação ascendente: 
+						-Nesta abordagem, o gerente de projeto examina todas as tarefas individuais 
+						 que precisam ser concluídas e, em seguida, as distribui em blocos gerenciáveis
+						 que levam a um marco.
+			
+			-Integrar marcos em seu programa de projeto:
+				-Identifique onde em seu projeto você alcançará as metas principais e torne esses pontos seus marcos.
+			
+			-Armadilhas da definição de marcos:
+				1.Não estabeleça muitos marcos
+				2.Não confunda tarefas com marcos
+				3.Não liste os marcos e as tarefas separadamente
+	
+	Como criar uma estrutura analítica do projeto:
+		-Estrutura analítica do projeto (WBS):
+			-É uma ferramenta que classifica os marcos e as tarefas de um projeto em uma hierarquia
+			 na ordem em que precisam ser concluídos.
+		-Existem vários tipos de estruturas, na aula foi utilizado uma estrutura em arvore como exemplo,
+		 onde cada galho (marco) tinha suas folhas (tarefas).
+		-É possível também utilizar uma planilha para definir cada tarefa.
+		-É legal utilizar algum software para designar tarefas para os membros da equipe, como por exemplo o Asana.
+		-Cada membro deve ser designado para uma tarefa que corresponda com as habilidades do mesmo.
+		-Uma WBS completa oferece uma representação visual de um projeto e das tarefas necessárias a serem entregues a cada marco.
+		-Etapas para criar uma WBS:
+			-Comece com o quadro abrangente e de alto nível do projeto.
+			 Faça um brainstorm com sua equipe para listar os principais resultados e marcos.
+			-Identifique as tarefas que precisam ser realizadas para atender a esses marcos.
+			-Examine essas tarefas e as divida ainda mais em subtarefas.
+
+		
+		
 					
 		
