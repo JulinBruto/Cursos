@@ -134,3 +134,75 @@ O processo de compra
 - Por outro lado, o gerenciamento de compras tradicional segue contratos padrão com entregas e termos claros, oferecendo maior previsibilidade, mas menos flexibilidade para mudanças.
 - Em ambos os casos, é crucial manter uma relação positiva com os fornecedores e dedicar tempo à fase de negociação para garantir um processo eficaz de compras.
 
+Documentação de compra comum
+   - O gerente de projeto utiliza documentos importantes em cada fase do processo de compras, incluindo o NDA, o RFP e a SoW.
+   - O NDA é um acordo de sigilo que visa manter informações confidenciais dentro da empresa, impedindo vazamentos de dados sensíveis.
+   - O RFP, ou pedido de proposta, é um documento detalhado que descreve os requisitos do projeto e é enviado aos fornecedores para solicitar propostas.
+   - Ao criar um RFP, é essencial incluir uma visão geral do projeto, metas mensuráveis, escopo de trabalho, marcos e requisitos de envio.
+   - Após o envio do RFP, os fornecedores interessados ​​enviarão suas propostas, e o processo de seleção começará.
+   - A SoW, ou Declaração de Trabalho, é um documento enviado após a seleção do fornecedor e evolui ao longo do projeto.
+   - Os documentos NDA e RFP são fixos e não sofrem alterações após o envio, enquanto a SoW se desenvolve conforme o projeto avança.
+   - A compreensão e o uso adequado desses documentos são essenciais para garantir o sucesso das compras em um projeto.
+
+Como criar uma declaração de trabalho
+   - Após enviar um pedido de proposta e selecionar o fornecedor,
+     o próximo passo é enviar uma Declaração de Trabalho (SoW), que descreve os produtos
+     e serviços a serem fornecidos.
+  
+   - A SoW também inclui requisitos e necessidades do contratado, além de do cliente, garantindo
+     que todas as partes entendam suas responsabilidades.
+   
+   - O gerente de projeto é responsável por desenvolver a SoW, muitas vezes com contribuições de 
+     especialistas e a orientação de consultores jurídicos.
+   
+   - A SoW para o projeto Plant Pals inclui cabeçalhos de página, uma seção de objetivo, escopo, entregas, 
+     marcos, prazos de pagamento e termos e condições.
+   
+   - É essencial delinear claramente o que está dentro e fora do escopo do projeto, definir expectativas e garantir
+     um entendimento comum entre todas as partes envolvidas.
+   
+   - Os prazos de pagamento devem ser especificados na SoW para promover relacionamentos sólidos com os fornecedores e empreiteiros.
+   
+   - A colaboração com a equipe jurídica é importante durante o processo de compra para garantir que os documentos estejam
+     em conformidade com as leis e regulamentos.
+
+Como receber suporte para compras
+   - Após compreender NDAs, RFPs e SoWs, é importante garantir o apoio de outros departamentos e membros da equipe durante o processo de compra.
+  
+   - O processo de compra não termina após selecionar fornecedores e assinar contratos.
+   - Acompanhamento do desempenho é realizado por meio de análises trimestrais e reuniões para garantir o cumprimento dos acordos.
+
+   - Dependendo do porte da empresa, a situação jurídica pode variar, desde uma equipe interna até consultores externos.
+   - Leis sobre comércio justo e ético devem ser seguidas, e equipes de ética e conformidade garantem a conformidade com políticas governamentais e valores corporativos.
+
+   - É essencial garantir que todas as partes interessadas estejam cientes das questões legais e de conformidade relacionadas ao projeto.
+   - A inclusão das partes interessadas certas é crucial para aprovações necessárias e impactos no projeto.
+
+   - Revisões legais são fundamentais para evitar problemas legais, como no exemplo de plantas tóxicas enviadas para escritórios com animais de estimação.
+   - Ter os contratos revisados pela equipe jurídica é uma prioridade para garantir a conformidade e mitigar riscos legais.
+
+Ética no processo de compra
+   - Escolher fornecedores éticos é crucial para evitar consequências negativas, como escândalos.
+   - Gerentes de projetos devem garantir que todos os aspectos do projeto provenham de fontes éticas e monitorar riscos éticos ao longo do processo.
+
+   - Conhecer os requisitos legais da empresa e buscar códigos de ética da profissão.
+   - Praticar valores éticos, como honestidade e responsabilidade, conforme orientado pelo código de ética do PMI.
+   - Identificar e evitar problemas antiéticos, como suborno, corrupção e fornecimento exclusivo.
+
+   - Decidir se o projeto é ético desde o início, considerando o código de ética da empresa e regulamentações governamentais.
+   - Verificar a ética dos fornecedores antes da assinatura dos contratos e garantir preços justos.
+   - Manter relacionamentos positivos com fornecedores e monitorar o cumprimento dos contratos durante a produção.
+
+   - Confie em seu julgamento ético e consulte sua equipe jurídica ou partes interessadas, se necessário.
+   - Ao manter princípios éticos, você evita problemas futuros para si e para a empresa.
+
+
+
+
+
+
+
+
+
+
+
