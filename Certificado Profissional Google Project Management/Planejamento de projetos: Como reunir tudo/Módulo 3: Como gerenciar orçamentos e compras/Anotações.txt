@@ -1,0 +1,136 @@
+Como compreender os orçamentos de projeto
+
+A importancia  de definição orçamentária
+    - Orçamento do projeto é essencial para controlar as despesas e garantir o sucesso do projeto.
+    - O orçamento é dividido em marcos para indicar o progresso e conclusão de entregas ou fases.
+    - Inclui atividades e tarefas com custos associados para calcular despesas corretas.
+    - Um prognóstico é uma estimativa de custo ao longo do tempo e é parte integrante do orçamento.
+    - O orçamento evolui ao longo do ciclo de vida do projeto e contém itens como mão de obra, custos operacionais e materiais.
+    - O orçamento é uma entrega no gerenciamento de projetos e comunica as necessidades às partes interessadas.
+    - Tem um impacto direto na viabilidade financeira da empresa e é ajustado conforme necessário.
+    - Nem sempre o gerente de projeto é o único responsável pelo orçamento; depende do tamanho da empresa e da equipe.
+    - A aprovação de gastos pode ser necessária, e os processos variam de empresa para empresa.
+    - O orçamento é um aspecto crucial do gerenciamento de projetos e afeta a produtividade, a receita e os custos da empresa.
+    - Manter-se dentro do orçamento é crucial para evitar custos extras ou afetar o orçamento futuro da empresa.
+    - Empresas de destaque podem ter a obrigação de informar o desempenho financeiro aos acionistas.
+    - Gerentes de projeto devem mostrar que o dinheiro foi usado conforme solicitado e garantir orçamento para projetos futuros.
+
+Pricipais componentes de um orçamento de projeto
+    - O orçamento do projeto é mais complexo do que uma simples quantia fixa;
+       requer compreensão das necessidades das partes interessadas, orçamento
+       para despesas extras e análises contínuas.
+    - Compreender as necessidades das partes interessadas é essencial para entregar
+       o projeto dentro do custo esperado e gerar lucro para a empresa.
+    - Despesas inesperadas, como danos a materiais, devem ser consideradas e orçadas
+       para garantir que o projeto não ultrapasse o orçamento.
+    - Revisões e reformulações do orçamento são necessárias à medida que o projeto progride,
+       permitindo ajustes conforme necessário.
+    - A realocação de custos entre diferentes recursos e categorias dentro do orçamento é comum
+       e ajuda a manter o projeto dentro do orçamento.
+    - Além do custo dos recursos, é necessário considerar análises de reservas, orçamento de contingência
+       e custo da qualidade ao criar um orçamento.
+    - A análise de reservas ajuda a contabilizar fundos de reserva para cobrir custos imprevistos, enquanto
+       o orçamento de contingência aborda eventos não previstos.
+    - O custo da qualidade inclui todos os custos para evitar problemas com produtos, processos ou tarefas.
+    - As estimativas iniciais do orçamento podem mudar ao longo do projeto, e análises contínuas são necessárias
+       para garantir que o projeto permaneça dentro do orçamento.
+
+Introdução a Orçamentos de Projeto
+  - Definição de orçamento de projeto como a estimativa de recursos monetários para alcançar metas.
+  - Importância de analisar e controlar o orçamento ao longo do ciclo de vida do projeto.
+  - Utilidade do orçamento para comunicação com partes interessadas e controle de custos.
+
+- Práticas Recomendadas do Orçamento de Projetos:
+  - Consulta a dados históricos para aprendizado e melhoria contínua.
+  - Envolver equipe e mentores para revisão e feedback.
+  - Alinhamento do orçamento com o cronograma para melhor acompanhamento.
+  - Verificação rigorosa para garantir precisão e aprovação necessária.
+
+- Categorização de Custos:
+  - Custos Diretos: relacionados à conclusão do projeto (salários, materiais, etc.).
+  - Custos Indiretos: essenciais para a equipe, mas não diretamente ligados à conclusão do projeto (administração, seguros, etc.).
+
+- Desenvolvimento de um Orçamento de Referência:
+  - Definição de um orçamento de referência como uma estimativa inicial dos custos do projeto.
+  - Importância de monitoramento contínuo e ajustes, incluindo possíveis mudanças significativas que exigem atualizações no orçamento de referência.
+
+Como gerenciar um orçamento de projeto
+
+Como criar um orçamento de projeto
+  - Importância dos orçamentos para controlar os custos ao longo do projeto.
+  - Papel dos orçamentos na definição de objetivos e garantia de viabilidade financeira.
+
+    - Técnicas para Criar um Orçamento de Projeto:
+    - Utilização de dados históricos para aprendizado e melhoria contínua.
+    - Consulta a especialistas e colegas para obter insights valiosos.
+    - Abordagem ascendente: listar todos os itens do projeto e somar seus custos.
+    - Confirmação da precisão dos dados e definição da referência do orçamento.
+
+    - Detalhes na Criação do Orçamento:
+    - Divisão das tarefas do projeto e estimativa de custos para cada uma.
+    - Consideração dos custos de materiais, equipamentos e despesas diversas.
+    - Inclusão de custos fixos, despesas de viagem e reservas para imprevistos.
+
+    - Importância da Revisão e Ajustes do Orçamento:
+    - Acompanhamento do custo planejado versus custo real em cada etapa do projeto.
+    - Necessidade de reajustar estimativas durante o projeto para alcançar a meta final.
+    - Comparação dos custos finais com as estimativas originais para aprendizado contínuo.
+
+Como manter um orçamento de projeto
+    - Importância de verificar o orçamento regularmente para garantir prestação de contas.
+    - Utilização de marcos como métrica para acompanhar o progresso do projeto.
+    - Controle de custos como prática proativa para minimizar variações no orçamento.
+    
+    - Controle de Custos e Gerenciamento de Mudanças:
+    - Estabelecimento de um plano de aprovação para controlar alterações no orçamento.
+    - Necessidade de informar e obter aprovação das partes interessadas para todas as mudanças.
+    - Atualização de previsões e estimativas para acompanhar alterações no orçamento.
+    
+    - Gerenciamento de Riscos Relacionados ao Orçamento:
+    - Definição de limites aceitáveis para excessos de custo em colaboração com patrocinadores e partes interessadas.
+    - Riscos associados a projetos que ultrapassam ou ficam abaixo do orçamento.
+    - Impactos negativos de projetos que ficam abaixo do orçamento, incluindo redução de recursos futuros e qualidade de resultados.
+
+    - Estratégias para Adaptação e Gerenciamento Adequado do Orçamento:
+    - Necessidade de contabilizar, adaptar e gerenciar o orçamento de forma eficiente.
+    - Identificação e gerenciamento de riscos como parte essencial do processo de gerenciamento de projetos.
+    - Abordagem futura sobre estratégias para economizar dinheiro e tempo da empresa e gerenciamento de riscos mais detalhado.
+
+Como superar desafios orçamentários
+    - Pré-alocação do Orçamento:
+    - Situações em que o orçamento é definido antes do início do projeto.
+    - Trabalhar com o cliente para definir expectativas de escopo e resultados.
+    - Monitorar despesas regularmente e compará-las com o orçamento pré-alocado.
+    - Considerar despesas fixas e baseadas em tempo e materiais.
+
+    - Cálculo Impreciso do TCO (Custo Total de Propriedade):
+    - Subestimar o custo total de recursos do projeto ao longo de sua vida útil.
+    - Considerar todos os elementos que contribuem para o custo total de um item.
+    - Incluir despesas associadas ao produto ou serviço durante sua vida útil, não apenas os custos iniciais.
+
+    - Aumento do Escopo:
+    - Ocorre quando mudanças e crescimentos afetam o escopo do projeto após o início.
+    - Pode gerar trabalho adicional não planejado e afetar o orçamento.
+    - Fatores como declarações de trabalho vagas, conversas não documentadas e prazos inatingíveis podem levar ao aumento do escopo.
+    
+    - Conclusão:
+    - Consciência dos desafios orçamentários pode ajudar a evitá-los e superá-los.
+    - Gerenciamento cuidadoso do escopo, monitoramento regular do orçamento e consideração do TCO são essenciais para o sucesso do projeto.
+
+Introdução a compras
+
+Noções basicas sobre compras
+    - Comparação entre gerenciamento de projetos e início de um novo hobby, como pintar.
+    - Importância de adquirir os materiais corretos para o sucesso do projeto ou hobby.
+    - Relação entre adquirir materiais e gerenciamento de fornecedores em projetos.
+    - Explicação do gerenciamento de fornecedores, envolvendo busca por serviços específicos, negociação de contratos, estabelecimento de prazos e avaliação de desempenho.
+    - Exemplo do projeto Plant Pals na Office Green, que precisa contratar um redator externo devido à falta de recursos internos.
+    - Próximo vídeo abordará as diferentes fases do processo de compra e suas variações no gerenciamento de projetos.
+
+O processo de compra
+- Nem todos os projetos demandam compras, mas é importante estar preparado para elas quando necessário.
+- O processo de compra geralmente envolve cinco etapas: início, seleção, redação do contrato, controle e conclusão.
+- No contexto do Agile, o gerenciamento de compras é mais colaborativo e adaptável, com foco em relacionamentos e feedbacks recorrentes.
+- Por outro lado, o gerenciamento de compras tradicional segue contratos padrão com entregas e termos claros, oferecendo maior previsibilidade, mas menos flexibilidade para mudanças.
+- Em ambos os casos, é crucial manter uma relação positiva com os fornecedores e dedicar tempo à fase de negociação para garantir um processo eficaz de compras.
+
