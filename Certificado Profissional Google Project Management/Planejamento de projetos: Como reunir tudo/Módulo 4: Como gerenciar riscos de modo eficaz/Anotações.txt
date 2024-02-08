@@ -150,3 +150,33 @@ Como visualiza relações de dependencias
 
     - Esses exemplos ilustram como as dependências podem afetar a sequência e o progresso das tarefas em um projeto.
 
+Estratégias de mitigação de riscos
+    - Identificação e avaliação de riscos
+    - Planejamento de mitigação de riscos
+        - Evitar
+        - Aceitar
+        - Reduzir ou controlar
+        - Transferir
+    - Exemplos de aplicação na Office Green
+    - Importância da escolha da abordagem adequada
+    - Documentação em um plano de gestão de riscos
+
+Como criar um plano de gestão de riscos
+    - Documentação é crucial na gestão de projetos
+    - Plano de gestão de riscos: sua importância e atualização contínua
+    - Exemplo de plano de gestão de riscos
+        - Detalhes do documento (empresa, projeto, autor, status, datas)
+        - Objetivo e resumo executivo do projeto
+        - Registro de riscos: identificação, classificação e mitigação
+        - Gráficos de probabilidade e impacto
+    - Compartilhamento e alinhamento com equipe e partes interessadas
+
+Como informar riscos às partes interessadas
+    - Identificar e avaliar riscos é crucial no planejamento do projeto
+    - Comunicar riscos às partes interessadas é essencial para manter expectativas e confiança
+    - Comunicação antecipada e frequente ajuda a preparar as partes interessadas para os riscos
+    - O método de comunicação varia de acordo com a gravidade do risco: e-mail para riscos baixos,
+       comunicação direta para riscos médios e reuniões para riscos graves
+    - A comunicação com as partes interessadas pode revelar riscos adicionais e fornecer insights valiosos
+    - Adaptar o estilo de comunicação de acordo com a gravidade do risco é fundamental
+    - A colaboração com as partes interessadas melhora a compreensão dos riscos e ajuda na elaboração de estratégias de mitigação
