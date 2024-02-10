@@ -1,0 +1,182 @@
+Como compreender a gestão de riscos
+
+A importancia da gestão de riscos
+    - Nem sempre os projetos seguem exatamente como planejado.
+    - Flexibilidade é crucial para lidar com imprevistos.
+    - Identificar e planejar para riscos é essencial.
+
+    - Risco vs. Problema:
+        - Risco: Evento potencial que pode afetar o projeto.
+        - Problema: Questão real que impacta a execução do projeto.
+        - Riscos podem se tornar problemas se ocorrerem.
+
+    - Gestão de Riscos:
+        - Identificação e avaliação de potenciais riscos e problemas.
+        - Processo contínuo de planejamento e adaptação.
+        - Define medidas para minimizar impactos negativos.
+
+    - Importância da Gestão de Riscos:
+        - Evita que o projeto falhe em cumprir metas e prazos.
+        - Permite explorar alternativas para alcançar os objetivos.
+        - Reduz o impacto de eventos inesperados.
+
+    - Exemplo: Plant Pals na Office Green:
+        - Riscos potenciais incluem atraso no lançamento do site e escassez de fornecimento.
+        - Necessidade de estratégias de mitigação e plano de contingência.
+
+    - Lidando com Problemas:
+        - Manter a calma e encontrar soluções para problemas inesperados.
+        - Reconhecer que surgirão desafios não previstos e estar preparado para lidar com eles.
+
+    - Benefícios da Gestão de Riscos:
+        - Preparação para o desconhecido.
+        - Confiança e menos pressão para o gerente de projeto.
+        - Abordagem mais resiliente diante de problemas.
+
+Fases da gestão de Riscos
+    - Gestão de Riscos:
+        - Processo contínuo ao longo do ciclo de vida do projeto.
+        - Cinco etapas principais envolvidas:
+
+    1. Identificação do risco:
+    - Define potenciais riscos do projeto com a equipe.
+
+    2. Análise do risco:
+    - Determina probabilidade e impacto dos riscos identificados.
+
+    3. Avaliação do risco:
+    - Prioriza os riscos com base nos resultados da análise.
+
+    4. Tratamento do risco:
+    - Cria planos para gerenciar e tratar de cada risco.
+
+    5. Monitoramento e controle do risco:
+    - Designa membros da equipe para monitorar e mitigar os riscos.
+
+Como identificar e avaliar riscos
+
+Ferramentas para ajudar a indentificar riscos
+    - Importância do Planejamento de Riscos:
+        - Mesmo projetos simples enfrentam riscos.
+        - Preparação é chave para atingir objetivos.
+
+    - Ferramentas e Técnicas de Identificação de Riscos:
+        - Brainstorming permite compartilhar ideias sem julgamento.
+        - Equipes diversificadas trazem perspectivas variadas.
+        - Diagramas de causa e efeito ajudam a identificar causas potenciais de riscos.
+
+    - Registro de Riscos:
+        - Tabela ou gráfico que lista os riscos identificados.
+        - Fundamental para acompanhar e priorizar os riscos.
+
+    - Avaliação de Riscos:
+        - Estima a probabilidade e o impacto dos riscos.
+        - Matriz de probabilidade e impacto é uma ferramenta prioritária.
+        - Classificação de risco inerente baseada em probabilidade e impacto.
+
+    - Gerenciamento de Riscos:
+        - Determinado pelo apetite por risco da organização.
+        - Riscos de alto nível demandam planos detalhados de mitigação.
+        - Após avaliação, o registro de riscos é atualizado com classificações de risco.
+
+Como criar diagrama de espinha de peixe
+    - Identificação e Medição de Riscos:
+        - Tarefas complexas no gerenciamento de projetos.
+        - Diagramas de espinha de peixe ajudam a visualizar problemas.
+
+    - Etapas da Criação de um Diagrama de Espinha de Peixe:
+        1. Definição do problema.
+        2. Identificação das categorias.
+        3. Brainstorming das causas.
+        4. Análise das causas.
+
+    - Mitigação de Riscos:
+        - Após identificar a causa raiz, o foco é na mitigação do risco.
+
+Tipos de risco
+    - Tipos Comuns de Riscos em Projetos:
+        - Riscos de Tempo.
+        - Riscos de Orçamento.
+        - Riscos de Escopo.
+        - Riscos Externos.
+
+    - Riscos de Tempo:
+        - Possibilidade de atrasos nas tarefas do projeto.
+        - A importância de uma boa gestão de tempo para evitar impactos financeiros e descontentamento das partes interessadas.
+
+    - Riscos de Orçamento:
+        - Possibilidade de aumento de custos devido a planejamento inadequado ou expansão do escopo.
+        - Importância do orçamento para o controle de custos e evitar danos à reputação da empresa.
+
+    - Riscos de Escopo:
+        - Possibilidade de o projeto não atender às metas estabelecidas.
+        - Potencial impacto negativo nas partes interessadas e clientes.
+
+    - Riscos Externos:
+        - Riscos originados por fatores externos à empresa e fora do controle direto do gerente de projeto.
+
+    - Pontos Únicos de Falha (PUFs):
+        - Riscos com potencial catastrófico de interromper o trabalho do projeto.
+        - Necessidade de identificar, monitorar e mitigar os PUFs para proteger o cronograma, orçamento e escopo do projeto.
+
+    - Dependências:
+        - Relações entre tarefas do projeto onde o início ou conclusão de uma depende da outra.
+        - Tipos: Internas (controláveis pela equipe) e Externas (fora do controle da equipe).
+        - Riscos associados a dependências e estratégias para mitigá-los.
+
+
+Como gerenciar riscos de ponto único de falha
+    - Riscos de Ponto Único de Falha:
+        - Riscos que podem causar interrupções significativas ou encerrar o projeto.
+        - Exemplo: Dependência excessiva de um especialista em um aspecto crítico do projeto.
+
+    - Estratégias de Mitigação:
+        - Evitar: Eliminar a situação por completo, como usar uma semente mais disponível.
+        - Minimizar: Reduzir os efeitos catastróficos reconhecendo o risco e buscando soluções alternativas, como utilizar múltiplos fornecedores.
+        - Transferir: Transferir a responsabilidade do risco para outra parte, como encontrar fornecedores que operam em diferentes países.
+        - Aceitar: Reconhecer o risco como parte dos negócios, reservando recursos extras para lidar com problemas potenciais.
+
+    - Estudo de Caso: Estratégias de Mitigação na Office Green:
+        - Evitar: Considerar o uso de outras sementes amplamente disponíveis.
+        - Minimizar: Usar múltiplos fornecedores de diferentes regiões para reduzir o impacto das mudanças tributárias.
+        - Transferir: Encontrar fornecedores em regiões menos afetadas pelas mudanças regulatórias.
+        - Aceitar: Reservar recursos adicionais para adquirir sementes de outro fornecedor se necessário.
+
+Como visualiza relações de dependencias
+    - Do fim ao início (FS): Uma tarefa precisa ser concluída antes que outra possa começar.
+    - Do fim ao fim (FF): Uma tarefa precisa ser concluída antes que outra possa ser concluída.
+    - Do início ao início (SS): Duas tarefas começam simultaneamente.
+    - Do início ao fim (SF): Uma tarefa precisa começar antes que outra possa ser concluída.
+
+    - Esses exemplos ilustram como as dependências podem afetar a sequência e o progresso das tarefas em um projeto.
+
+Estratégias de mitigação de riscos
+    - Identificação e avaliação de riscos
+    - Planejamento de mitigação de riscos
+        - Evitar
+        - Aceitar
+        - Reduzir ou controlar
+        - Transferir
+    - Exemplos de aplicação na Office Green
+    - Importância da escolha da abordagem adequada
+    - Documentação em um plano de gestão de riscos
+
+Como criar um plano de gestão de riscos
+    - Documentação é crucial na gestão de projetos
+    - Plano de gestão de riscos: sua importância e atualização contínua
+    - Exemplo de plano de gestão de riscos
+        - Detalhes do documento (empresa, projeto, autor, status, datas)
+        - Objetivo e resumo executivo do projeto
+        - Registro de riscos: identificação, classificação e mitigação
+        - Gráficos de probabilidade e impacto
+    - Compartilhamento e alinhamento com equipe e partes interessadas
+
+Como informar riscos às partes interessadas
+    - Identificar e avaliar riscos é crucial no planejamento do projeto
+    - Comunicar riscos às partes interessadas é essencial para manter expectativas e confiança
+    - Comunicação antecipada e frequente ajuda a preparar as partes interessadas para os riscos
+    - O método de comunicação varia de acordo com a gravidade do risco: e-mail para riscos baixos,
+       comunicação direta para riscos médios e reuniões para riscos graves
+    - A comunicação com as partes interessadas pode revelar riscos adicionais e fornecer insights valiosos
+    - Adaptar o estilo de comunicação de acordo com a gravidade do risco é fundamental
+    - A colaboração com as partes interessadas melhora a compreensão dos riscos e ajuda na elaboração de estratégias de mitigação
