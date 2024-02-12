@@ -1,0 +1,201 @@
+Acompanhamento e medição do progresso de projeto
+
+A importância do acompanhamento
+    - O acompanhamento do progresso do projeto é crucial durante a fase de execução.
+    - Permite identificar desvios do plano original, que podem ser positivos ou negativos.
+    - A transparência proporcionada pelo acompanhamento facilita a tomada de decisões precisas.
+    - Evita o esquecimento de detalhes importantes e ajuda a manter tudo em ordem.
+    - Mantém todos os membros da equipe e partes interessadas informados sobre prazos e metas.
+    - Ajuda a reconhecer riscos e problemas que podem surgir durante o projeto.
+    - Facilita a identificação e o foco nas áreas de maior risco.
+    - Aumenta a confiança de que o projeto será entregue dentro do prazo, escopo e orçamento.
+    - Mantém a equipe motivada e focada em alcançar os objetivos do projeto.
+    - Os próximos passos incluem destacar os principais itens a serem acompanhados durante a execução do projeto.
+
+Itens comuns para acompanhar
+    -Acompanhamento monitora o progresso das atividades do projeto.
+    -Itens importantes a serem acompanhados durante a execução do projeto incluem:
+        - Cronograma do projeto, garantindo que as entregas sejam concluídas no prazo.
+        - Status das tarefas, atividades e itens de ação para garantir o trabalho efetivo.
+        - Progresso em direção aos marcos, acompanhando novas tarefas e evitando prazos perdidos.
+        - Custos do projeto, para evitar gastos excessivos ou insuficientes.
+        - Principais decisões, mudanças, dependências e riscos, mantendo a equipe alinhada.
+    -Acompanhar de perto esses itens beneficia a equipe e o progresso do projeto.
+    -O próximo passo é explorar modelos e ferramentas de gerenciamento de projetos para o acompanhamento.
+
+Diferentes métodos de acompanhamento
+    - Métodos de acompanhamento essenciais para guiar a execução do projeto incluem:
+        - Diagrama de Gantt
+        - Roteiro
+        - Gráfico de burndown
+    - Diagrama de Gantt:
+        - Avalia tarefas em relação ao tempo
+        - Indica proprietários e ordem das tarefas
+        - Útil para projetos com muitas dependências e equipes grandes
+    - Roteiro:
+        - Adequado para acompanhar marcos grandes do projeto
+        - Lista metas e abordagens para alcançá-las
+        - Oferece visão geral do projeto e mapeamento do processo
+    - Gráfico de burndown:
+        - Avalia tempo em relação ao trabalho realizado e restante
+        - Indicado para projetos com foco em prazos e revisão detalhada de tarefas
+        - Ajuda a manter a equipe atualizada com datas de conclusão previstas
+    - A escolha do método de acompanhamento depende do tipo e escopo do projeto, recursos disponíveis e necessidades da equipe
+    - Combinação de métodos é comum, como usar Diagrama de Gantt para definir escopo inicial e Gráfico de Burndown para acompanhamento próximo ao lançamento
+    - Importância de entender os diferentes tipos de métodos de acompanhamento para escolher o mais adequado ao projeto
+
+Escolher o método ideal de acompanhamento para seu projeto
+    - Diagramas de Gantt:
+        - Úteis para acompanhar o cronograma, especialmente em projetos com muitas tarefas, dependências e equipes grandes.
+        - Ferramentas como Asana oferecem recursos para criar e utilizar diagramas de Gantt.
+    - Roteiros:
+        - Mais adequados para acompanhar marcos grandes do projeto, oferecendo uma visão geral do projeto e ilustrando sua evolução ao longo do tempo.
+        - Podem ser criados em documentos e ferramentas como Smartsheet oferecem recursos para sua elaboração.
+    - Gráficos de burndown:
+        - Usados por equipes Agile e Scrum para acompanhar a rapidez do trabalho e as datas de conclusão previstas.
+        - Revelam o trabalho restante e o tempo disponível, úteis para projetos que exigem revisão detalhada de tarefas e prioridade em cumprir prazos.
+        - Ferramentas como Jira oferecem recursos para trabalhar com gráficos de burndown.
+
+    -Esses métodos oferecem maneiras diferentes de acompanhar o progresso do projeto, adaptando-se às necessidades e características específicas de cada projeto.
+
+Relátorios de status de projeto
+    - Componentes de um relatório de status de projeto:
+        - Nome do projeto
+        - Data
+        - Resumo
+        - Status (RAG: vermelho, âmbar, verde)
+        - Marcos e tarefas (realizações principais e próximas)
+        - Problemas (obstáculos atuais e riscos potenciais)
+    - Tipos de relatórios de status de projeto:
+        - Planilha: para projetos complexos com várias camadas de informação.
+        - Apresentação de slides: para atualizações rápidas e visuais para partes interessadas seniores.
+    - Importância dos relatórios de status de projeto:
+        - Melhorar e simplificar a comunicação da equipe.
+        - Manter todas as partes informadas.
+        - Solicitar recursos e ajuda, se necessário.
+        - Criar estrutura e transparência no registro do status do projeto.
+
+Por que pode haver riscos e mudanças
+    - Riscos e mudanças durante o projeto:
+        - Risco: evento potencial que pode ocorrer e impactar o projeto.
+        - Mudança: alteração que afeta tarefas, estruturas ou processos no projeto.
+        - Riscos são eventos hipotéticos que requerem planejamento.
+        - Mudanças podem ter impacto positivo ou negativo no projeto.
+    - Tipos de mudanças que podem afetar o projeto:
+        - Dependências novas ou alteradas entre tarefas.
+        - Mudanças nas prioridades do projeto.
+        - Alterações na capacidade ou disponibilidade de pessoas.
+        - Novas limitações no orçamento ou recursos.
+        - Aumento no escopo do projeto.
+        - Força maior: eventos imprevistos que impedem o cumprimento de contratos.
+    - Gerenciamento de mudanças:
+        - Avaliação em relação às estimativas originais de escopo, orçamento e tempo.
+        - Consulta à Declaração de Trabalho e ao gráfico RACI.
+        - Uso de processos de solicitação de alterações e formulários específicos.
+        - Informação detalhada nos formulários para compreensão e aprovação adequadas.
+        - Necessidade de aprovação do cliente para alterações significativas no escopo, prazo ou orçamento.
+
+Como identificar e acompanhar dependências
+    - Dependências em projetos:
+        - Tipos de dependências: internas e externas.
+        - Dependências são vínculos entre tarefas que podem afetar o projeto.    
+    - Dependências internas:
+        - Relação entre tarefas dentro do mesmo projeto.
+        - Exemplo: escolha da equipe após definição do trabalho e contratos.
+    - Dependências externas:
+        - Dependência de fatores externos, como agências reguladoras.
+        - Exemplo: espera pela aprovação da prefeitura em um projeto de construção.
+    - Tipos de dependências:
+        - Obrigatórias: exigidas legal ou contratualmente.
+        - Discricionárias: definidas pela equipe do projeto.
+    - Gestão de dependências:
+        - Processo para garantir o sucesso do projeto dentro do prazo e do orçamento.
+        - Etapas: identificação, registro, monitoramento e controle, comunicação.
+    - Importância da gestão de dependências:
+        - Ajuda a resolver dependências e manter o projeto forte.
+        - Fundamentais para o sucesso do projeto.
+
+Técnicas para ajudar a gerenciar riscos
+    - Gerenciamento de riscos em projetos:
+        - Essencial para o sucesso do projeto.
+        - Concentração em mudanças, dependências e aumento de escopo.
+
+    - Técnicas para gerenciar riscos:
+        - Discussão de ideias com a equipe.
+        - Criação de um registro de riscos.
+        - Cálculo da exposição ao risco.
+        - Priorização dos riscos de acordo com o impacto e a probabilidade.
+        - Implementação de planos de mitigação para riscos prioritários.
+
+    - Técnica ROAM para gerenciar riscos:
+        - Resolvido: riscos eliminados.
+        - Atribuído: riscos monitorados por um membro da equipe.
+        - Aceito: riscos aceitos sem ações de mitigação.
+        - Atenuado: riscos com ações de mitigação implementadas.
+
+    - Importância do compartilhamento de riscos com as partes interessadas.
+
+Como encaminhar problemas para um supervisor
+    - Estratégia de encaminhamento no gerenciamento de projetos:
+        - Processo de obter ajuda da liderança para resolver problemas e remover obstáculos.
+        - Encorajado, usado frequentemente e celebrado no gerenciamento de projetos.
+        - Atua como ferramenta de freios e contrapesos para garantir ações apropriadas.
+        - Pode resultar em tomadas de decisão rápidas e promover a participação.
+    - Estabelecimento de padrões e práticas de encaminhamento:
+        - Definir quem, como e onde os problemas serão levados e discutidos.
+    - Quando encaminhar um problema para um supervisor:
+        - Ao primeiro sinal de problemas críticos que afetam as restrições de tempo, orçamento e escopo do projeto.
+        - Problemas críticos incluem atrasos em marcos importantes, excessos de orçamento, perda de clientes e atrasos na conclusão do projeto.
+    - Evitar divergências prolongadas e acordos ruins:
+        - Divergências prolongadas: paralisam o projeto devido à falta de acordo entre colegas ou grupos.
+        - Acordos ruins: soluções insuficientes que comprometem metas importantes do projeto.
+
+Como informar mudanças à equipe
+    - Importância da comunicação eficaz na informação de mudanças em projetos:
+        - Comunicar mudanças é crucial para manter a equipe informada e alinhada.
+        - Mesmo pequenas mudanças devem ser comunicadas, pois podem ter impacto significativo.
+    - Adaptação das táticas de comunicação:
+        - Escolha da forma de comunicação com base na natureza da mudança e no destinatário.
+        - Opções incluem e-mails, reuniões individuais, reuniões de equipe, entre outros.
+    - Estratégias de comunicação:
+        - Pequenas mudanças: melhor comunicadas por e-mail para evitar discussões extensas.
+        - Grandes mudanças: exigem reuniões de equipe para discutir impactos no orçamento, prazo e escopo.
+    - Utilização do conceito de tempo limite:
+        - Momento para se afastar do projeto, respirar e reavaliar o plano diante de mudanças significativas.
+        - Importante para preparar a equipe para o sucesso a longo prazo.
+    - Realização de retrospectivas:
+        - Reuniões para analisar sucessos, contratempos e melhorias dos recursos do projeto.
+        - Focadas em identificar causas de incidentes sem atribuir culpados, visando aprendizado e melhoria contínua.
+    - Identificação de técnicas eficazes de comunicação:
+        - Fundamental para informar mudanças de forma clara e produtiva para toda a equipe.
+
+Como escrever um e-mail de encaminhamento
+    - Introdução:
+        - Importância de informar riscos e mudanças para equipe e partes interessadas.
+        - Conceito de encaminhamento para um supervisor: solicitar ajuda da liderança para resolver obstáculos e validar próximas etapas.
+    - E-mail de encaminhamento:
+        - Definição de padrões com as partes interessadas antes de iniciar o projeto.
+        - Enfoque no e-mail de encaminhamento e práticas recomendadas para escrevê-lo.
+    - Práticas recomendadas:
+        1. Manter um tom amigável:
+            - Abordar o problema com gentileza e profissionalismo.
+        2. Indicar sua conexão com o projeto:
+            - Apresentar-se brevemente e explicar a relação com o projeto.
+        3. Explicar o problema:
+            - Descrever claramente o problema a ser resolvido, fornecendo contexto adequado.
+        4. Explicar as consequências:
+            - Detalhar os impactos negativos do problema no projeto.
+        5. Propor uma providência e fazer uma solicitação:
+            - Oferecer soluções e indicar claramente o que é necessário do destinatário.
+    - Exemplo de e-mail de encaminhamento:
+        - Cenário: Problema de controle de qualidade em uma linha de cestas de Natal.
+        - Demonstração prática das práticas recomendadas em um e-mail de encaminhamento.
+    - Conclusão:
+        - Reiteração das práticas recomendadas para e-mails de encaminhamento eficazes.
+        - Importância do encaminhamento para resolver problemas e da comunicação clara na busca por ajuda da liderança.
+
+
+
+
+
+
